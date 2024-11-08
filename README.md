@@ -1,4 +1,4 @@
-Title 'Multi-scale KNN-based graph convolutional aggregation network with text prompt for jaw cyst segmentation
+# Title 'Multi-scale KNN-based graph convolutional aggregation network with text prompt for jaw cyst segmentation
 
 Integrating text prompt and graph attention convolutional network into multi-scale aggregation network for jaw cyst segmentation
 
