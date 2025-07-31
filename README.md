@@ -3,11 +3,12 @@
 Integrating text prompt and graph attention convolutional network into multi-scale aggregation network for jaw cyst segmentation
 
 The corrsponding dataset can be downloaded from the website: https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q.
-#Note:
+
+# Note: You can download the datasets from the URLS before you send the Dataset End-User Agreement Instructions, we will send the password to you.
 
 The pretrained model will be released at the the Baidu disk.
 
-We use the nnUNetv1 framework, you can download the old code nnUNetv1 for the website: https://github.com/MIC-DKFZ/nnUNet. If you cann't find the old version of nnUNet, you also contact me.
+We use the nnUNetv1 framework, you can download the old code nnUNetv1 for the website: https://github.com/MIC-DKFZ. If you cann't find the old version of nnUNet, you also contact me.
 
 The above files except for nnUNetTrainer.py are put into the fold:nnunetv2\training\nnUNetTrainer\variants\network_architecture.
 
