@@ -24,7 +24,7 @@ Notice: This code is based on the first version of nnUNet code. You must find th
 cd nnUNet
 pip install -e .
 
-3. Download the jaw cyst dataset from https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q.
+3. Download the jaw cyst dataset from https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q(We will update it anytime, and the final email shall prevail).
 
 4. The above files are put into the fold: nnunetv2\training\nnUNetTrainer\variants\network_architecture.
 
