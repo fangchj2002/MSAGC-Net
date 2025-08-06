@@ -30,8 +30,10 @@ pip install -e .
 
 5. The file 'nnUNetTrainer.py' is replaced, which is located in the folder 'nnunet\training\nnUNetTrainer\'.
 
-6. put the file named as 'run_training.py' into the folder 'nnunetv2\run'
+6. put the file named as 'run_training.py' into the folder 'nnunet\run'
 
 7. run the command 'python run_training.py'.
+
+   #  Pre-trained model can be downloaded from the URLs: https://pan.baidu.com/s/1Smu1_bjauReyQFK7XZ9IIw password: gysx
 
 
