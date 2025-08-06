@@ -26,9 +26,9 @@ pip install -e .
 
 3. Download the jaw cyst dataset from https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q(We will update it anytime, and the final email shall prevail).
 
-4. The above files are put into the fold: nnunetv2\training\nnUNetTrainer\variants\network_architecture.
+4. The above files are put into the fold: nnunet\training\nnUNetTrainer\variants\network_architecture.
 
-5. The file 'nnUNetTrainer.py' is replaced, which is located in the folder 'nnunetv2\training\nnUNetTrainer\'.
+5. The file 'nnUNetTrainer.py' is replaced, which is located in the folder 'nnunet\training\nnUNetTrainer\'.
 
 6. put the file named as 'run_training.py' into the folder 'nnunetv2\run'
 
