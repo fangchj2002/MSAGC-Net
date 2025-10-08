@@ -1,4 +1,4 @@
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/4ac9ba7a-53a9-49c1-8fdf-7e2bf438a75d" /># Title 'Multi-scale KNN-based graph convolutional aggregation network with text prompt for jaw cyst segmentation
+# Title 'Multi-scale KNN-based graph convolutional aggregation network with text prompt for jaw cyst segmentation
 
 Integrating text prompt and graph attention convolutional network into multi-scale aggregation network for jaw cyst segmentation
 
