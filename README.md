@@ -8,6 +8,8 @@ The corrsponding dataset can be downloaded from the website:
 
 # Note: You can download the datasets from the URLS before you send the Dataset End-User Agreement Instructions, we will send the password or the updating urls to you.
 
+# The dataset can be updated via https://github.com/fangchj2002/Oral_Jaw_cyst_dataset
+
 The pretrained model will be released at the the Baidu disk.
 
 We use the nnUNetv1 framework, you can download the old code nnUNetv1 for the website: https://github.com/MIC-DKFZ. If you cann't find the old version of nnUNet, you also contact me.
